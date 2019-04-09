@@ -1,0 +1,5 @@
+{
+   "pipeline":"spacy_sklearn","intent_entity_featurizer_regex","ner_crf","nlp_spacy",
+  "path":"./models/nlu",
+  "data":"./data/data.json"
+}
